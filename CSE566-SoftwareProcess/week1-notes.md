@@ -28,7 +28,7 @@
 
 ### Successful Software Projects
 * Perspectives on Successful Projects: (Two) what is a successful project from the perspective of the customer (on time, on budget, works-meets req, quality), what is a successful project from the perspective of the development org (profitable, didn't burn out team)
-* Statistics - 26% of all software projects fail, 46% experience costand schedule overruns or significantly reduced functionality
+* Statistics - 26% of all software projects fail, 46% experience cost and schedule overruns or significantly reduced functionality
 * Symptoms of Failure - early: lack of project plan, lack of stakeholder communication, no external involvement of quality organization, project changes are managed poorly, deadlines are unrealistic, lack of understanding of user needs, project's scope is ill-defined, project lacks appropriate skills, best practices are ignored
 * fatal symptoms: excessive hard work, high staff turnover, aggressive and defensive behavior, no fun
 * critical success factors in software projects: start on the right foot (70% of dooming acts occur before a build ever starts, build the right team, give team what they need), maintain momentum (keep attrition low, monitor quality, manage the product not the ppl), track progress, make smart decisions, do lessons learned (post mortums, retrospectives)
